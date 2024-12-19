@@ -49,8 +49,10 @@ Clone o repositório ou baixe os arquivos diretamente:
 
 ```bash
 git clone https://github.com/snipermaskdevs/cadastrar-clientes-javascripts.git
+```
 
 ### 2. Rodar o Sistema
+
 Para iniciar o sistema, execute o seguinte comando:
 
 ```bash
